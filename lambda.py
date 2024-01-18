@@ -9,3 +9,4 @@ print(double(5))
 print(cube(5))
 print(avg(3,5))
 print(appl(lambda x:  x* x, 2))
+#done
