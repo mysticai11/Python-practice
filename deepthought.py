@@ -1,5 +1,5 @@
 ask = (input("What is the Answer to the Great Question of Life, the Universe, and Everything? "))
-if (ask==42,"forty-two","forty two"):
+if (ask==42,"forty-two","Forty Two"):
   print("Yes")
 elif (ask==50,"fifty","Fifty"):
   print("No")
