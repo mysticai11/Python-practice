@@ -11,6 +11,6 @@ if 18.5 <=BMI_VALUE <25:
 if 25 <=BMI_VALUE<30:
   print("OVERWEIGHT") 
 if 30<=BMI_VALUE<30:
-  print("OBESITY")
+  print("OBESITYy")
 
 
