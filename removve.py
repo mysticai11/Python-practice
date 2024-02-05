@@ -1,6 +1,6 @@
 my_dict = {
     "name": "ámii",
-    "age": 21,
+    "age": 20,
     "gender": "male",
 }
 print(my_dict)
