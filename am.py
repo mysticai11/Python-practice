@@ -1,4 +1,4 @@
-number = 29
+number = 17
 is_prime = True
 if number > 1:
     for i in range(2, number):
