@@ -25,7 +25,7 @@ print(f"Reversed list: {numbers}")
 unique_numbers = list(set(numbers))
 print(f"List with unique elements: {unique_numbers}")
 
-# Insert a new element at a specific index
+
 numbers.insert(2, 7)
 print(f"List with element inserted at index 2: {numbers}")
 
